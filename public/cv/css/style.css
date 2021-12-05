@@ -1,0 +1,174 @@
+body {
+    background-color: #919191;
+    height: 1580px;
+    position: relative;
+}
+
+* {
+    color: white;
+    box-sizing: border-box;
+}
+
+.leftSection {
+    height: 1390px;
+    width: 400px;
+    background-color: #110066;
+    float: left;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+.right {
+    height: 1390px;
+    width: 790px;
+    background-color: #D94C1A;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.me {
+    width: 400px;
+    height: 400px;
+}
+
+.img {
+    position: relative;
+}
+
+.name {
+    position: absolute;
+    top: 340px;
+    color: white;
+    left: 20px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+a {
+    display: block;
+    line-height: 40px;
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.x {
+    background-color: #90CBFB;
+    width: 360px;
+    border-radius: 20px;
+    position: relative;
+    left: 20px;
+}
+
+p {
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+
+.y {
+    background-color: #D94C1A;
+    width: 300px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.z {
+    background-color: #D94C1A;
+    width: 200px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.a {
+    background-color: #D94C1A;
+    width: 250px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.f {
+    background-color: #D94C1A;
+    width: 100px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.m {
+    background-color: #D94C1A;
+    width: 360px;
+    /* padding-left: 10px; */
+    border-radius: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.r {
+    background-color: #D94C1A;
+    width: 360px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.front {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#front {
+    margin-left: 15px;
+}
+
+.rightSection1 {
+    margin: 10px;
+    padding: 10px;
+    width: 97%;
+    height: 630px;
+    background-color: #110066;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.rightSection2 {
+    margin: 10px;
+    padding: 10px;
+    width: 97%;
+    height: 700px;
+    background-color: #110066;
+    position: absolute;
+    top: 658px;
+}
+
+.footer {
+    position: absolute;
+    background-color: #110066;
+    font-size: 40px;
+    width: 100%;
+    height: 150px;
+    top: 1420px;
+}
+
+.fo {
+    text-align: center;
+    margin-top: 50px;
+}
+
+hr {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin-left: 15px;
+    display: inline;
+    color: #D94C1A;
+}
